@@ -1,0 +1,11 @@
+{
+    "name": "Fox",
+    "type": "BEP20",
+    "symbol": "FOX",
+    "decimals": 18,
+    "website": "https://www.magicfox.fi/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xB48837F0C05c0931c7B3DcFDceA0365396c39F3A",
+    "status": "active",
+    "id": "0xB48837F0C05c0931c7B3DcFDceA0365396c39F3A"
+}
