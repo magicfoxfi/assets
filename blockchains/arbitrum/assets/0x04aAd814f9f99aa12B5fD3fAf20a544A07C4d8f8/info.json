@@ -1,0 +1,11 @@
+{
+    "name": "Shroom",
+    "type": "ARBITRUM",
+    "symbol": "SHROOM",
+    "decimals": 18,
+    "website": "https://magicfox.fi/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x04aAd814f9f99aa12B5fD3fAf20a544A07C4d8f8",
+    "status": "active",
+    "id": "0x04aAd814f9f99aa12B5fD3fAf20a544A07C4d8f8"
+}
