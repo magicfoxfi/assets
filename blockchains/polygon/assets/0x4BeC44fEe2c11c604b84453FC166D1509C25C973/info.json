@@ -1,0 +1,11 @@
+{
+    "name": "Shroom",
+    "type": "POLYGON",
+    "symbol": "SHROOM",
+    "decimals": 18,
+    "website": "https://www.magicfox.fi/",
+    "description": "-",
+    "explorer": "https://polygonscan.com//token/0xFfc1C2b7f6D4a1b7DD9C349DB11242241EcD8Ddf",
+    "status": "active",
+    "id": "0x4BeC44fEe2c11c604b84453FC166D1509C25C973"
+}
