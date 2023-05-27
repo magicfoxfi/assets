@@ -1,0 +1,11 @@
+{
+    "name": "Thena",
+    "type": "BEP20",
+    "symbol": "THE",
+    "decimals": 18,
+    "website": "https://thena.fi/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11",
+    "status": "active",
+    "id": "0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11"
+}
