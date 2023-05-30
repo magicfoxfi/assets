@@ -1,0 +1,11 @@
+{
+    "name": "StaFi rBNB",
+    "type": "BEP20",
+    "symbol": "rBNB",
+    "decimals": 18,
+    "website": "https://stafi.io/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xF027E525D491ef6ffCC478555FBb3CFabB3406a6",
+    "status": "active",
+    "id": "0xF027E525D491ef6ffCC478555FBb3CFabB3406a6"
+}
