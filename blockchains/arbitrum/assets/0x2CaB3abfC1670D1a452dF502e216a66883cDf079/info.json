@@ -1,0 +1,11 @@
+{
+    "name": "Layer2DAO",
+    "type": "ARBITRUM",
+    "symbol": "L2DAO",
+    "decimals": 18,
+    "website": "https://openxswap.exchange/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+    "status": "active",
+    "id": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079"
+}
