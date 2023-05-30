@@ -1,0 +1,11 @@
+{
+    "name": "SolidLizard USDC",
+    "type": "ARBITRUM",
+    "symbol": "slzUSDC",
+    "decimals": 18,
+    "website": "https://solidlizard.finance/home",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x54355cc6913B26A15ccA1F820cf17D362FA65DB5",
+    "status": "active",
+    "id": "0x54355cc6913B26A15ccA1F820cf17D362FA65DB5"
+}
