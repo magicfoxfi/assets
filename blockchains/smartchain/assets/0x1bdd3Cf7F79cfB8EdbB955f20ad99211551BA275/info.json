@@ -1,0 +1,11 @@
+{
+    "name": "Stader BNB",
+    "type": "BEP20",
+    "symbol": "BNBx",
+    "decimals": 18,
+    "website": "https://www.staderlabs.com/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+    "status": "active",
+    "id": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275"
+}
