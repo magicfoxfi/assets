@@ -1,0 +1,11 @@
+{
+    "name": "StaFi rMATIC",
+    "type": "POLYGON",
+    "symbol": "rMATIC",
+    "decimals": 18,
+    "website": "https://www.stafi.io/",
+    "description": "-",
+    "explorer": "https://polygonscan.com//token/0x9f28e2455f9FFcFac9EBD6084853417362bc5dBb",
+    "status": "active",
+    "id": "0x9f28e2455f9FFcFac9EBD6084853417362bc5dBb"
+}

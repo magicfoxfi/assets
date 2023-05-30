@@ -1,0 +1,11 @@
+{
+    "name": "Impermax",
+    "type": "POLYGON",
+    "symbol": "IBEX",
+    "decimals": 18,
+    "website": "https://www.impermax.finance/",
+    "description": "-",
+    "explorer": "https://polygonscan.com//token/0xf972DACEd7C6b03223710C11413036D17eB298f6",
+    "status": "active",
+    "id": "0xf972DACEd7C6b03223710C11413036D17eB298f6"
+}

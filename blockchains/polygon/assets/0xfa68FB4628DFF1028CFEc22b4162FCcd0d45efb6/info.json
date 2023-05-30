@@ -1,0 +1,11 @@
+{
+    "name": "Liquid Staking Matic",
+    "type": "POLYGON",
+    "symbol": "MaticX",
+    "decimals": 18,
+    "website": "https://staderlabs.com/",
+    "description": "-",
+    "explorer": "https://polygonscan.com//token/0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+    "status": "active",
+    "id": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6"
+}
