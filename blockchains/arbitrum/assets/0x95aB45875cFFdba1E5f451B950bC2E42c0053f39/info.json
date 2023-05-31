@@ -1,0 +1,11 @@
+{
+    "name": "Staked Frax Ether",
+    "type": "ARBITRUM",
+    "symbol": "sfrxETH",
+    "decimals": 18,
+    "website": "https://app.frax.finance/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x95aB45875cFFdba1E5f451B950bC2E42c0053f39",
+    "status": "active",
+    "id": "0x95aB45875cFFdba1E5f451B950bC2E42c0053f39"
+}

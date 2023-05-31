@@ -1,0 +1,11 @@
+{
+    "name": "CHRONOS",
+    "type": "ARBITRUM",
+    "symbol": "CHR",
+    "decimals": 18,
+    "website": "https://app.chronos.exchange/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
+    "status": "active",
+    "id": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851"
+}
