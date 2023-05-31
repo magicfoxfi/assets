@@ -1,0 +1,11 @@
+{
+    "name": "USDT+",
+    "type": "BEP20",
+    "symbol": "USDT+",
+    "decimals": 18,
+    "website": "https://overnight.fi/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x5335E87930b410b8C5BB4D43c3360ACa15ec0C8C",
+    "status": "active",
+    "id": "0x5335E87930b410b8C5BB4D43c3360ACa15ec0C8C"
+}

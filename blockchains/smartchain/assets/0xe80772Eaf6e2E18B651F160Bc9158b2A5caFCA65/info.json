@@ -1,0 +1,11 @@
+{
+    "name": "USD+",
+    "type": "BEP20",
+    "symbol": "USD+",
+    "decimals": 6,
+    "website": "https://overnight.fi/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "status": "active",
+    "id": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65"
+}
