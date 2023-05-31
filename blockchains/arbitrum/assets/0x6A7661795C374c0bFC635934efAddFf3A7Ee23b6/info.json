@@ -1,0 +1,11 @@
+{
+    "name": "Dola USD Stablecoin",
+    "type": "ARBITRUM",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "website": "https://www.inverse.finance/firm",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
+    "status": "active",
+    "id": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "LUSD Stablecoin",
+    "type": "ARBITRUM",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "website": "https://www.liquity.org/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+    "status": "active",
+    "id": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b"
+}
