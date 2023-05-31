@@ -1,0 +1,11 @@
+{
+    "name": "Ramses",
+    "type": "ARBITRUM",
+    "symbol": "RAM",
+    "decimals": 18,
+    "website": "https://www.ramses.exchange/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418",
+    "status": "active",
+    "id": "0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418"
+}

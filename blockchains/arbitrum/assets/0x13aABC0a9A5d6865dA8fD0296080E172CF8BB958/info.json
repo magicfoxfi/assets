@@ -1,0 +1,11 @@
+{
+    "name": "Firebird Aggregator",
+    "type": "ARBITRUM",
+    "symbol": "FBA",
+    "decimals": 18,
+    "website": "https://firebird.finance/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x13aABC0a9A5d6865dA8fD0296080E172CF8BB958",
+    "status": "active",
+    "id": "0x13aABC0a9A5d6865dA8fD0296080E172CF8BB958"
+}

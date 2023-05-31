@@ -1,0 +1,11 @@
+{
+    "name": "YieldFarming Index",
+    "type": "ARBITRUM",
+    "symbol": "YFX",
+    "decimals": 18,
+    "website": "https://yfxprotocol.xyz/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0xaaE0c3856e665ff9b3E2872B6D75939D810b7E40",
+    "status": "active",
+    "id": "0xaaE0c3856e665ff9b3E2872B6D75939D810b7E40"
+}

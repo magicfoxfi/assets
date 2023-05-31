@@ -1,0 +1,11 @@
+{
+    "name": "Tarot",
+    "type": "ARBITRUM",
+    "symbol": "TAROT",
+    "decimals": 18,
+    "website": "https://www.tarot.to/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x6688b00f0c23a4a546BEaAE51a7c90C439895D48",
+    "status": "active",
+    "id": "0x6688b00f0c23a4a546BEaAE51a7c90C439895D48"
+}
