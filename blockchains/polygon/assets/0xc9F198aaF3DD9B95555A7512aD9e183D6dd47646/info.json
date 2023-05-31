@@ -1,0 +1,11 @@
+{
+    "name": "ACryptoS",
+    "type": "POLYGON",
+    "symbol": "ACryptoS",
+    "decimals": 18,
+    "website": "https://app.acryptos.com/",
+    "description": "-",
+    "explorer": "https://polygonscan.com//token/0xc9F198aaF3DD9B95555A7512aD9e183D6dd47646",
+    "status": "active",
+    "id": "0xc9F198aaF3DD9B95555A7512aD9e183D6dd47646"
+}
