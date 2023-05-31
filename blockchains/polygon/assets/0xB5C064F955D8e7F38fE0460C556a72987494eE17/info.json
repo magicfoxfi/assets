@@ -1,0 +1,11 @@
+{
+    "name": "QuickSwap",
+    "type": "POLYGON",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "website": "https://quickswap.exchange/",
+    "description": "-",
+    "explorer": "https://polygonscan.com//token/0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+    "status": "active",
+    "id": "0xB5C064F955D8e7F38fE0460C556a72987494eE17"
+}
