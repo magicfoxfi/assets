@@ -1,0 +1,11 @@
+{
+    "name": "Tarot",
+    "type": "BEP20",
+    "symbol": "TAROT",
+    "decimals": 18,
+    "website": "https://www.tarot.to/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xa8cd6e4bf45724d3ac27f9e31e47ba4e399a7b52",
+    "status": "active",
+    "id": "0xa8cd6e4bf45724d3ac27f9e31e47ba4e399a7b52"
+}
