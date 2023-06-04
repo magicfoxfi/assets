@@ -1,0 +1,11 @@
+{
+    "name": "USD+",
+    "type": "ARBITRUM",
+    "symbol": "USD+",
+    "decimals": 18,
+    "website": "https://overnight.fi/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "status": "active",
+    "id": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65"
+}
