@@ -1,0 +1,11 @@
+{
+    "name": "Stader",
+    "type": "BEP20",
+    "symbol": "SD",
+    "decimals": 18,
+    "website": "https://www.staderlabs.com/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
+    "status": "active",
+    "id": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "dForce USD",
+    "type": "BEP20",
+    "symbol": "USX",
+    "decimals": 18,
+    "website": "https://dforce.network/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xB5102CeE1528Ce2C760893034A4603663495fD72",
+    "status": "active",
+    "id": "0xB5102CeE1528Ce2C760893034A4603663495fD72"
+}
