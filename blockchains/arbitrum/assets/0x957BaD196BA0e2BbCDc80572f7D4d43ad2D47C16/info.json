@@ -1,0 +1,11 @@
+{
+    "name": "SolidLizard neutral farming USD",
+    "type": "ARBITRUM",
+    "symbol": "nfUSDchr",
+    "decimals": 18,
+    "website": "https://solidlizard.finance/home",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x957BaD196BA0e2BbCDc80572f7D4d43ad2D47C16",
+    "status": "active",
+    "id": "0x957BaD196BA0e2BbCDc80572f7D4d43ad2D47C16"
+}
