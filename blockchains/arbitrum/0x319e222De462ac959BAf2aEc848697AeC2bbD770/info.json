@@ -1,0 +1,11 @@
+{
+    "name": "OreoSwap",
+    "type": "ARBITRUM",
+    "symbol": "OREO",
+    "decimals": 18,
+    "website": "https://oreoswap.finance/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0x319e222De462ac959BAf2aEc848697AeC2bbD770",
+    "status": "active",
+    "id": "0x319e222De462ac959BAf2aEc848697AeC2bbD770"
+}
