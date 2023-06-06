@@ -1,0 +1,11 @@
+{
+    "name": "Multichain BTC",
+    "type": "BEP20",
+    "symbol": "multiBTC",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xD9907fcDa91aC644F70477B8fC1607ad15b2D7A8",
+    "status": "active",
+    "id": "0xD9907fcDa91aC644F70477B8fC1607ad15b2D7A8"
+}
