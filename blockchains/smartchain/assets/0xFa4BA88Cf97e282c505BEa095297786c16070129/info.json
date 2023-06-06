@@ -1,0 +1,11 @@
+{
+    "name": "Coin98 Dollar",
+    "type": "BEP20",
+    "symbol": "CUSD",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xFa4BA88Cf97e282c505BEa095297786c16070129",
+    "status": "active",
+    "id": "0xFa4BA88Cf97e282c505BEa095297786c16070129"
+}

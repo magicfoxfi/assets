@@ -1,0 +1,11 @@
+{
+    "name": "Dola USD Stablecoin",
+    "type": "BEP20",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x2F29Bc0FFAF9bff337b31CBe6CB5Fb3bf12e5840",
+    "status": "active",
+    "id": "0x2F29Bc0FFAF9bff337b31CBe6CB5Fb3bf12e5840"
+}
