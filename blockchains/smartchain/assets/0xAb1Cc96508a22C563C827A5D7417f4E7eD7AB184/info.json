@@ -1,0 +1,11 @@
+{
+    "name": "PEPE PRO",
+    "type": "BEP20",
+    "symbol": "PEPRO",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xAb1Cc96508a22C563C827A5D7417f4E7eD7AB184",
+    "status": "active",
+    "id": "0xAb1Cc96508a22C563C827A5D7417f4E7eD7AB184"
+}

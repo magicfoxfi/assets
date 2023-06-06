@@ -1,0 +1,11 @@
+{
+    "name": "PEPE Terminator",
+    "type": "BEP20",
+    "symbol": "PEPET",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xd277f455bB482c848932Fc99b2a7B32558Ab3d40",
+    "status": "active",
+    "id": "0xd277f455bB482c848932Fc99b2a7B32558Ab3d40"
+}

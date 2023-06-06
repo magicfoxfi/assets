@@ -1,0 +1,11 @@
+{
+    "name": "HongKong Doge",
+    "type": "BEP20",
+    "symbol": "HKDOGE",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xB29fcA944571E857F0DcA789df7c1dF695183B56",
+    "status": "active",
+    "id": "0xB29fcA944571E857F0DcA789df7c1dF695183B56"
+}

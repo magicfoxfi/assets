@@ -1,0 +1,11 @@
+{
+    "name": "Pepe WAGMI",
+    "type": "BEP20",
+    "symbol": "PWAGMI",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x51AFBBbae8E625968b15666D296e606Ef7F0A6bC",
+    "status": "active",
+    "id": "0x51AFBBbae8E625968b15666D296e606Ef7F0A6bC"
+}
