@@ -1,0 +1,11 @@
+{
+    "name": "Frax Ether",
+    "type": "BEP20",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e",
+    "status": "active",
+    "id": "0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e"
+}
