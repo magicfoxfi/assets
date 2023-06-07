@@ -1,0 +1,11 @@
+{
+    "name": "Champion",
+    "type": "BEP20",
+    "symbol": "CHAM",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xC95cD75dCea473a30C8470B232b36ee72aE5DcC2",
+    "status": "active",
+    "id": "0xC95cD75dCea473a30C8470B232b36ee72aE5DcC2"
+}
