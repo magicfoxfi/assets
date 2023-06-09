@@ -1,0 +1,11 @@
+{
+    "name": "Pepe TEST",
+    "type": "BEP20",
+    "symbol": "PEPETST",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x094A5976E0696D27fe25DF02bFEEEcDEEDC3299e",
+    "status": "active",
+    "id": "0x094A5976E0696D27fe25DF02bFEEEcDEEDC3299e"
+}
