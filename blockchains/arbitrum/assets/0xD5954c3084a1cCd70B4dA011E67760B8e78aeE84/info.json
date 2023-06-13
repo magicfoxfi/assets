@@ -1,0 +1,11 @@
+{
+    "name": "ArbiDex Token",
+    "type": "ARBITRUM",
+    "symbol": "ARX",
+    "decimals": 18,
+    "website": "/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
+    "status": "active",
+    "id": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84"
+}
