@@ -1,0 +1,11 @@
+{
+    "name": "ASC FOX",
+    "type": "BEP20",
+    "symbol": "ascFOX",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x7a054F1eDBF8d1Eda154631934540AA9E6371e05",
+    "status": "active",
+    "id": "0x7a054F1eDBF8d1Eda154631934540AA9E6371e05"
+}
