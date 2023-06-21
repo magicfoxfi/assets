@@ -1,0 +1,11 @@
+{
+    "name": "BELA",
+    "type": "ARBITRUM",
+    "symbol": "BELA",
+    "decimals": 18,
+    "website": "/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0xAAa4B0D886922e7bfEb45cE16D9EfAef1D67E5D0",
+    "status": "active",
+    "id": "0xAAa4B0D886922e7bfEb45cE16D9EfAef1D67E5D0"
+}
