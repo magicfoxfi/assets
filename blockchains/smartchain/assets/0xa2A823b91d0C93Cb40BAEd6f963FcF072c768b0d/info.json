@@ -1,0 +1,11 @@
+{
+    "name": "Shouts",
+    "type": "BEP20",
+    "symbol": "SHO",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xa2A823b91d0C93Cb40BAEd6f963FcF072c768b0d",
+    "status": "active",
+    "id": "0xa2A823b91d0C93Cb40BAEd6f963FcF072c768b0d"
+}
