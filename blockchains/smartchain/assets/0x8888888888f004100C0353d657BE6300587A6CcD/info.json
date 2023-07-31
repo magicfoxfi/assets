@@ -1,0 +1,11 @@
+{
+    "name": "ACS",
+    "type": "BEP20",
+    "symbol": "ACD",
+    "decimals": 18,
+    "website": "/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x8888888888f004100C0353d657BE6300587A6CcD",
+    "status": "active",
+    "id": "0x8888888888f004100C0353d657BE6300587A6CcD"
+}
